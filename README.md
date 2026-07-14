@@ -25,7 +25,7 @@ An AI-powered FAQ chatbot built with **Python, Flask, and NLP** that answers use
 
 ```bash
 pip install -r requirements.txt
-python app.py
+python3 app.py
 ```
 
 Open: `http://127.0.0.1:5000`
