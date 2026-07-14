@@ -1,0 +1,90 @@
+Question,Answer
+What is Python?,Python is a high-level programming language used for web development AI automation and data science.
+Who developed Python?,Python was created by Guido van Rossum and first released in 1991.
+What is AI?,Artificial Intelligence enables computers to perform tasks that normally require human intelligence.
+What is Machine Learning?,Machine Learning is a branch of AI where computers learn from data without explicit programming.
+What is Deep Learning?,Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+What is Flask?,Flask is a lightweight Python web framework used to build web applications.
+What is Django?,Django is a high-level Python web framework for building secure and scalable web applications.
+What is HTML?,HTML is the standard language used to create web pages.
+What is CSS?,CSS is used to style and design web pages.
+What is JavaScript?,JavaScript adds interactivity and dynamic behavior to web pages.
+What is Git?,Git is a distributed version control system used to track code changes.
+What is GitHub?,GitHub is a cloud platform for hosting and collaborating on Git repositories.
+How do I install Python?,Download Python from python.org and follow the installation instructions.
+How do I install Flask?,Run the command pip install flask in your terminal.
+How do I install Pandas?,Run pip install pandas in your terminal.
+How do I install Scikit-learn?,Run pip install scikit-learn in your terminal.
+What is NumPy?,NumPy is a Python library used for numerical computing.
+What is Pandas?,Pandas is a Python library for data analysis and manipulation.
+What is OpenCV?,OpenCV is a computer vision library used for image and video processing.
+What is TensorFlow?,TensorFlow is an open-source deep learning framework developed by Google.
+What is an API?,An API allows different software applications to communicate with each other.
+What is JSON?,JSON is a lightweight format for storing and exchanging data.
+What is SQL?,SQL is the language used to manage relational databases.
+What is MySQL?,MySQL is an open-source relational database management system.
+What is MongoDB?,MongoDB is a NoSQL database that stores data as documents.
+What is a Database?,A database is an organized collection of structured information.
+What is Cloud Computing?,Cloud computing provides computing services over the internet.
+What is AWS?,Amazon Web Services is a cloud computing platform.
+What is Azure?,Microsoft Azure is a cloud computing platform offered by Microsoft.
+What is Google Cloud?,Google Cloud Platform provides cloud services including storage AI and computing.
+What is Cyber Security?,Cyber Security protects systems networks and data from digital attacks.
+What is Encryption?,Encryption converts readable data into coded data for security.
+What is Password Strength?,A strong password is long unique and contains uppercase lowercase numbers and symbols.
+How can I reset my password?,Click the Forgot Password option and follow the instructions.
+How do I contact support?,You can contact support through email phone or the Contact Us page.
+What are your working hours?,Our support team is available Monday to Friday from 9 AM to 6 PM.
+How do I create an account?,Click the Sign Up button fill in your details and submit the registration form.
+How do I log in?,Enter your registered email and password then click Login.
+I forgot my password.,Use the Forgot Password option to reset your password.
+How do I update my profile?,Go to Profile Settings edit your information and click Save.
+How do I change my email?,Open Account Settings and update your email address.
+How do I delete my account?,Go to Account Settings and select Delete Account.
+What is C++?,C++ is a powerful programming language widely used for software and game development.
+What is Java?,Java is an object-oriented programming language used for enterprise and Android applications.
+What is C?,C is a general-purpose programming language used for system programming.
+What is Data Structure?,A data structure is a way of organizing and storing data efficiently.
+What is an Algorithm?,An algorithm is a step-by-step procedure used to solve a problem.
+What is DSA?,DSA stands for Data Structures and Algorithms.
+What is Binary Search?,Binary Search efficiently finds an element in a sorted array in O(log n) time.
+What is Bubble Sort?,Bubble Sort repeatedly swaps adjacent elements until the array is sorted.
+What is AI Chatbot?,An AI chatbot understands user questions and provides automated responses using Natural Language Processing.
+Who are you?,I am an AI FAQ Chatbot developed using Python Flask and Natural Language Processing.
+What is your name?,My name is AI FAQ Chatbot.
+Who created you?,I was created by Khushi Sharma as an AI project using Flask and Machine Learning.
+Who is Khushi Sharma?,Khushi Sharma is a Computer Science Engineering student passionate about AI Python and Web Development.
+Tell me about yourself.,I am an AI chatbot designed to answer frequently asked questions quickly and accurately.
+How are you?,I'm doing great! Thank you for asking. How can I help you today?
+What can you do?,I can answer FAQs related to programming technology AI web development and general questions.
+Can you help me?,Of course! Ask me any question and I'll do my best to help.
+Are you a human?,No, I am an AI chatbot.
+Where do you live?,I live on your computer or server where this chatbot is running.
+How old are you?,I don't have an age, but I was created to help users answer questions.
+What is your favorite programming language?,I like Python because it is simple and powerful for AI and web development.
+Can you code?,Yes! I can help with Python C C++ Java HTML CSS JavaScript and SQL.
+Do you know ChatGPT?,Yes, ChatGPT is an AI assistant developed by OpenAI.
+Do you have feelings?,No, I don't have emotions, but I try to respond politely and helpfully.
+Tell me a joke.,Why do programmers prefer dark mode? Because light attracts bugs!
+What is your hobby?,Helping people learn programming and technology.
+Who is your developer?,My developer is Khushi Sharma.
+What are your skills?,I can answer questions, explain concepts, and assist with programming and technology topics.
+Can we be friends?,Of course! I'm always happy to chat and help you learn.
+Good morning.,Good morning! Hope you have a productive day.
+Good afternoon.,Good afternoon! How can I help you today?
+Good evening.,Good evening! What would you like to know?
+Good night.,Good night! Sleep well and see you again.
+Thank you.,You're welcome! Happy to help.
+Thanks.,You're welcome! Have a wonderful day.
+Bye.,Goodbye! Have a great day.
+See you later.,See you soon! Take care.
+Nice to meet you.,Nice to meet you too!
+I love programming.,That's awesome! Keep practicing and building projects.
+I am feeling sad.,I'm sorry you're feeling that way. I hope things improve soon. If you want, we can chat or work on something together.
+I am happy.,That's wonderful! Keep smiling and enjoy your day.
+Thank you.,You're welcome! Happy to help.
+Hello.,Hello! How can I assist you today?
+Hi.,Hi there! What can I help you with today?
+Good Morning.,Good Morning! Hope you have a wonderful day.
+Good Night.,Good Night! Take care and see you again.
+Bye.,Goodbye! Have a great day.
